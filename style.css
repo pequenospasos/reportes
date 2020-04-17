@@ -75,6 +75,12 @@ article {
   height: 367.6px;
 }
 
+
+.card--1 .card__img,
+.card--1 .card__img--hover {
+  background-image: url("https://i.imgur.com/FHYWxj1.png");
+}
+
 .card--2 .card__img,
 .card--2 .card__img--hover {
   background-image: url("https://i.imgur.com/6WGHFHm.png");
@@ -92,8 +98,24 @@ article {
 
 .card--5 .card__img,
 .card--5 .card__img--hover {
-  background-image: url("https://i.imgur.com/FHYWxj1.png");
+  background-image: url("https://i.imgur.com/6WGHFHm.png");
 }
+
+.card--6 .card__img,
+.card--6 .card__img--hover {
+  background-image: url("https://i.imgur.com/6WGHFHm.png");
+}
+
+.card--7 .card__img,
+.card--7 .card__img--hover {
+  background-image: url("https://i.imgur.com/6WGHFHm.png");
+}
+
+.card--8 .card__img,
+.card--8 .card__img--hover {
+  background-image: url("https://i.imgur.com/6WGHFHm.png");
+}
+
 
 .card__img {
   visibility: hidden;
